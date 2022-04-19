@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SamVanGonof
+- 👀 I’m interested in Python and back-end development.
+- Now Im study on course Python-developer and Im make first steps in back-end.
+- Don't throw tomatoes at me) I'm new) 
